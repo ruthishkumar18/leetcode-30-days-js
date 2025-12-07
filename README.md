@@ -1,6 +1,6 @@
 # 🚀 LeetCode 30 Days – JavaScript Challenge
 
-This repository contains my solutions, notes, and progress for the **30‑Day JavaScript LeetCode Challenge**.
+This repository contains my solutions and progress for the **30‑Days JavaScript LeetCode Challenge**.
 
 ## 📅 Daily Progress
 
