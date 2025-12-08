@@ -7,8 +7,7 @@ This repository contains my solutions and progress for the **30‑Days JavaScrip
 | Day | Problem | Status | Link |
 |-----|---------|--------|------|
 | 01  | Create Hello World Function | ✔ Completed | [day-01](./day-01) |
-| 02  | — | ⏳ Upcoming | — |
-| ... | ... | ... | ... |
+| 02  | Counter | ✔ Completed | [day-02](./day-02) |
 
 ---
 
