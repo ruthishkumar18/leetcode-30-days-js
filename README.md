@@ -8,7 +8,9 @@ This repository contains my solutions and progress for the **30‑Days JavaScrip
 |-----|---------|--------|------|
 | 01  | Create Hello World Function | ✔ Completed | [day-01](./day-01) |
 | 02  | Counter | ✔ Completed | [day-02](./day-02) |
-| 02  | To Be Or Not To Be | ✔ Completed | [day-03](./day-03) |
+| 03  | To Be Or Not To Be | ✔ Completed | [day-03](./day-03) |
+| 04  | Counter II | ✔ Completed | [day-04](./day-04) |
+
 
 ---
 
