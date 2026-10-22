@@ -16,7 +16,6 @@ This repository contains my solutions, notes, and progress for the **30‑Day Ja
 Each day includes:
 - `problem.md` → Problem statement  
 - `solution.js` → Clean and simple JavaScript solution  
-- `notes.md` → Approach, complexity, and learning summary  
 
 ---
 
@@ -27,4 +26,4 @@ Build consistency, strengthen JavaScript skills, and complete all 30 days with c
 
 ### 🔗 Connect With Me
 Follow my daily updates on LinkedIn!  
-(You can update this with your profile link)
+https://www.linkedin.com/in/ruthishkumar18/
